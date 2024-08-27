@@ -1,0 +1,12 @@
+body {
+	background: red;
+	font-family: "Arial";
+}
+
+H1 {
+	width: 500px;
+	background: #FFFAFA;
+	color: white;
+	margin-bottom: 0px;
+	margin: 0 auto;
+}
